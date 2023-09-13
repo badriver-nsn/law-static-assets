@@ -1,5 +1,5 @@
 {
-  "clientVersion": "v2.63.4",
+  "clientVersion": "2.64.0",
   "themeVersion": "v2",
   "themeType": "custom",
   "themeName": "custom",
@@ -26,7 +26,6 @@
   },
   "fonts": [
     "/biticons/biticons.css",
-    "/fonts/ananda/ananda.css",
     "/fonts/roboto-condensed/roboto-condensed.css"
   ],
   "contact": {
@@ -35,7 +34,7 @@
   "reader": {
     "rootUrl": "/",
     "themeVariation": {
-      "header": "hv1",
+      "header": "hv3",
       "footer": "fv1"
     }
   }
